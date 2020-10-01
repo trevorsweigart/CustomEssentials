@@ -1,0 +1,9 @@
+main: me.icefizz.customessentials.Main
+name: CustomEssentials
+version: 1.5
+author: IceFizz
+description: none
+commands:
+  bc:
+    description: none
+    usage: /bc
