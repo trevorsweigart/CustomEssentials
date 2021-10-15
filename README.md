@@ -1,2 +1,2 @@
 # CustomEssentials
-Abandonedrewrite of Minecraft Essentials plugin
+Abandoned rewrite of Minecraft Essentials plugin
